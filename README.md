@@ -6,3 +6,4 @@
   - E-mail: trykhramov@gmail.com
   - Instagram: @hramovserguy
   - Twitter: @hramov_sergey
+- :calling: Резюме на hh.ru https://hh.ru/resume/3bb845edff085c77380039ed1f503377556645
