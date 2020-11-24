@@ -3,6 +3,6 @@
 - 🔭 В данный момент работаю над системой Newser - поиск а анализ новостных материалов в средствах массовой информации.
 - 🌱 Пытаюсь учить Golang
 - 📫 Как со мной связаться: 
-  E-mail: trykhramov@gmail.com
-  Instagram: @hramovserguy
-  Twitter: @hramov_sergey
+  - E-mail: trykhramov@gmail.com
+  - Instagram: @hramovserguy
+  - Twitter: @hramov_sergey
