@@ -8,6 +8,5 @@
   - E-mail: trykhramov@gmail.com
   - Instagram/Twitter/Telegram: @therealhramov
   - Web: http://hramovdev.ru
-- :calling: Резюме на hh.ru https://hh.ru/resume/3bb845edff085c77380039ed1f503377556645
 
 ### Ознакомиться с примерами кода можно :arrow_down:
