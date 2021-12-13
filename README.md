@@ -7,6 +7,6 @@
 - 📫 Как со мной связаться: 
   - E-mail: trykhramov@gmail.com
   - Instagram/Twitter/Telegram: @therealhramov
-  - Web: http://hramovdev.ru
+  - Web: https://hramovdev.ru
 
 ### Ознакомиться с примерами кода можно :arrow_down:
