@@ -6,7 +6,7 @@
 - :sparkling_heart: Специализируюсь на RestAPI и клиент-серверных приложениях
 - 📫 Как со мной связаться: 
   - E-mail: trykhramov@gmail.com
-  - Instagram/Twitter/Telegram: @therealhramov
+  - VK/Telegram: @therealhramov
   - Web: https://hramovdev.ru
 
 ### Ознакомиться с примерами кода можно :arrow_down:
