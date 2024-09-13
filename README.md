@@ -5,7 +5,7 @@
 - :muscle: Активно использую такие технологии, как: Postgres, Docker, RabbitMQ, WebSockets, gRPC, Redis, Neo4j
 - :sparkling_heart: Специализируюсь на RestAPI и клиент-серверных приложениях
 - 📫 Как со мной связаться: 
-  - E-mail: trykhramov@gmail.com
+  - E-mail: trykhramov@yandex.ru
   - VK/Telegram: @therealhramov
   - Web: https://hramovdev.ru
 
